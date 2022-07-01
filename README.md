@@ -77,6 +77,6 @@
 <h4>Statistical Data </h4>
 
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inalbilal&show_icons=true&locale=en&layout=compact" width="485" alt="adam-pw" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inalbilal&show_icons=true&locale=en&layout=compact" width="495" alt="adam-pw" />
     <img src="https://github-readme-stats.vercel.app/api?username=inalbilal&show_icons=true&locale=en&layout=compact"></img>
 </p>
